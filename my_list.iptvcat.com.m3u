@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Mecca. http://iptv.am000.tv:8000/live/add17/add17/107.ts
+#EXTINF:-1 tvg-id="",🕋 (360p)
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="2MInternational.ma",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="AlAoulaEurope.ma",Al Aoula International (360p)
